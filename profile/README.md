@@ -1,7 +1,7 @@
 <h1 align="center">欢迎来到我们的工作室！</h1>
 
 <p align="center">
-![logo](https://github.com/user-attachments/assets/c1aad34f-3b41-46e0-91fe-b9d6f26e7490)
+<img src="https://github.com/user-attachments/assets/c1aad34f-3b41-46e0-91fe-b9d6f26e7490" alt="工作室Logo">
 
 </p>
 
