@@ -5,15 +5,14 @@
 
 </p>
 
-<p align="center">专注于HTML和PHP开发，喜欢使用VS和VS Code。</p>
+<p align="center">专注于WEB开发</p>
 
 ---
 
 ## About Us / 关于我们
 
-Welcome to our GitHub repository! We are a team passionate about web development using HTML and PHP. We love using Visual Studio (VS) and Visual Studio Code (VS Code) for our projects.
-
-欢迎来到我们的GitHub仓库！我们是一个热爱使用HTML和PHP进行Web开发的团队。我们喜欢使用Visual Studio (VS)和Visual Studio Code (VS Code)来完成我们的项目。
+Welcome to our GitHub repository! 
+欢迎来到我们的GitHub仓库！
 
 ---
 
